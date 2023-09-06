@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:90C1380D-5A98-4886-AA43-30D2584B4744</id>
+ <title>Page list Atom feed</title>
+ <updated>2017-06-16T18:13:52+02:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:15986F14-9BC0-4CFF-840A-649515A3865F</id>
+  <title>Home</title>
+  <title xmlns="urn:iweb:">Home</title>
+  <in-navbar xmlns="urn:iweb:">15986F14-9BC0-4CFF-840A-649515A3865F</in-navbar>
+  <link rel="alternate" href="Home.html"/>
+  <updated>2017-06-16T18:13:52.001+02:00</updated>
+  <content>Home</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:45491350-103E-4E22-9C28-38804D4DFC75</id>
+  <title>Research</title>
+  <title xmlns="urn:iweb:">Research</title>
+  <in-navbar xmlns="urn:iweb:">45491350-103E-4E22-9C28-38804D4DFC75</in-navbar>
+  <link rel="alternate" href="Research.html"/>
+  <updated>2017-06-16T18:13:52.002+02:00</updated>
+  <content>Research</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:A31BAB7F-F3F8-493E-BCD1-2CEA994F145C</id>
+  <title>Teaching</title>
+  <title xmlns="urn:iweb:">Teaching</title>
+  <in-navbar xmlns="urn:iweb:">A31BAB7F-F3F8-493E-BCD1-2CEA994F145C</in-navbar>
+  <link rel="alternate" href="Teaching.html"/>
+  <updated>2017-06-16T18:13:52.003+02:00</updated>
+  <content>Teaching</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:336AFF82-BC4B-42B4-860F-15C2AD393C8D</id>
+  <title>Labs</title>
+  <title xmlns="urn:iweb:">Labs</title>
+  <in-navbar xmlns="urn:iweb:">336AFF82-BC4B-42B4-860F-15C2AD393C8D</in-navbar>
+  <link rel="alternate" href="Labs.html"/>
+  <updated>2017-06-16T18:13:52.004+02:00</updated>
+  <content>Labs</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:DD2556D3-1CB6-41AF-8CDA-8888B4B1F71B</id>
+  <title>People</title>
+  <title xmlns="urn:iweb:">People</title>
+  <in-navbar xmlns="urn:iweb:">DD2556D3-1CB6-41AF-8CDA-8888B4B1F71B</in-navbar>
+  <link rel="alternate" href="People.html"/>
+  <updated>2017-06-16T18:13:52.005+02:00</updated>
+  <content>People</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:994C56C0-8DA0-4700-9911-D936A3EF1C6D</id>
+  <title>Contact</title>
+  <title xmlns="urn:iweb:">Contact</title>
+  <in-navbar xmlns="urn:iweb:">994C56C0-8DA0-4700-9911-D936A3EF1C6D</in-navbar>
+  <link rel="alternate" href="Contact.html"/>
+  <updated>2017-06-16T18:13:52.006+02:00</updated>
+  <content>Contact</content>
+ </entry>
+</feed>
